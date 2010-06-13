@@ -1,0 +1,10 @@
+An example of mutex usage in ooc
+
+You need the latest roc, as mutexes are a very recent additions:
+  * http://github.com/nddrylliog/rock
+
+At the time of this writing, there's no Win32 support but it should appear shortly =) Stay tuned!
+
+Enjoy!
+
+Amos Wenger (nddrylliog)
